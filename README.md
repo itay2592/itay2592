@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 ## 👀 I'm interested in
-- Cybersecurity and ethical hacking 🧠
+- Cybersecurity and ethical hacking 🛡️
 - Machine learning and AI 🤖
 - Full-stack web development 🌐
 
@@ -20,7 +20,8 @@ Welcome to my GitHub profile!
 - 💬 Discord: **itay2592**
 
 ## 🎲 Fun fact
-Bananas are berries, but strawberries aren't. 🍓
+Bananas are berries, but strawberries aren't. 🍌🍓
+
 
 ---
 
