@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - Deep Learning with PyTorch and TensorFlow 🧠
 - Blazor WebAssembly & ASP.NET Core 🚀
 
-## 🤝 I'm looking to collaborate on
+## 💞️ I'm looking to collaborate on
 - Open source projects related to AI and cybersecurity
 - Web applications with real-world use cases
 - Tools that enhance privacy or internet safety 🔐
@@ -19,8 +19,9 @@ Welcome to my GitHub profile!
 ## 📫 How to reach me
 - 💬 Discord: **itay2592**
 
-## 🎲 Fun fact
+## ⚡ Fun fact
 Bananas are berries, but strawberries aren't. 🍌🍓
+
 
 
 ---
